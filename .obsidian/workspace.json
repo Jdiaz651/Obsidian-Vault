@@ -136,19 +136,9 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "b781fa0c5ee345cb",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -165,7 +155,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b781fa0c5ee345cb",
+  "active": "2037d32b204299d0",
   "lastOpenFiles": [
     "Class Notes/Data Mining/Module 1 - What is Data Mining?.md",
     "Data Mining/Intro To Data Mining.md",
