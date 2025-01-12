@@ -442,4 +442,4 @@ These principles make Rust uniquely suitable for:
 - Safe concurrent programming
 - Applications requiring high reliability
 
-Remember: Rust's learning curve might seem steep, but the benefits of its design decisions become clear as you work with larger, more complex programs.
+Remember: Rust's learning curve might seem steep, but the benefits of its design decisions become clear as you work with larger, more complex programs
