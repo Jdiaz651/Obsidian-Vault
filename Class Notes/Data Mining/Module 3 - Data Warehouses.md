@@ -1,6 +1,6 @@
 # Data Warehouses and Knowledge Discovery
 
-## Connection to [[Knowledge Discovery Process]]
+## Connection to [[Knowledge Discovery Process]] 
 Data warehouses are fundamental to the knowledge discovery process as they:
 - Provide unified data views for [[Data Preparation]]
 - Support complex [[Data Mining]] operations
