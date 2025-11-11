@@ -47,3 +47,5 @@ print("Prefix Sums:", prefix_sums)  # Output: [0, 1, 3, 6, 10, 15]
 # Querying the sum of subarray from index 1 to 3
 l, r = 1, 3
 print("Sum of subarray from index", l, "to", r, "is", range_sum(prefix_sums, l, r))  # Output: 9
+```
+this is a test
