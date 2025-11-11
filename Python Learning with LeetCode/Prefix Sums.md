@@ -1,4 +1,3 @@
-# Prefix Sums
 
 Prefix sums, also known as cumulative sums or partial sums, are a fundamental concept in computer science and mathematics, particularly useful in algorithms and data analysis. The purpose of prefix sums is to efficiently compute the sum of elements in a subarray or a subset of a sequence up to a certain point.
 
